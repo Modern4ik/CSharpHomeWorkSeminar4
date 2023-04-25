@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\Task25_Numbers.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\Task25_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\Task25_Numbers.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\Task25_Numbers.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\Task25_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\bin\Debug\net6.0\Task25_Numbers.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\bin\Debug\net6.0\Task25_Numbers.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\bin\Debug\net6.0\Task25_Numbers.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\bin\Debug\net6.0\Task25_Numbers.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\bin\Debug\net6.0\Task25_Numbers.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\Task25_Numbers.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\refint\Task25_Numbers.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\Task25_Numbers.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\Task25_Numbers.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task25_Numbers\obj\Debug\net6.0\ref\Task25_Numbers.dll
