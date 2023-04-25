@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\Task27_SumNumbers.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\Task27_SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\Task27_SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\Task27_SumNumbers.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\Task27_SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\bin\Debug\net6.0\Task27_SumNumbers.exe
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\bin\Debug\net6.0\Task27_SumNumbers.deps.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\bin\Debug\net6.0\Task27_SumNumbers.runtimeconfig.json
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\bin\Debug\net6.0\Task27_SumNumbers.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\bin\Debug\net6.0\Task27_SumNumbers.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\Task27_SumNumbers.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\refint\Task27_SumNumbers.dll
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\Task27_SumNumbers.pdb
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\Task27_SumNumbers.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\HomeWorkSeminar4\Task27_SumNumbers\obj\Debug\net6.0\ref\Task27_SumNumbers.dll
